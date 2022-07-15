@@ -1,0 +1,8 @@
+Arquivo para testar o repositório.
+
+Comandos GIT:
+
+- git status
+- git add .
+- git commit -m ""
+- git push origin main
